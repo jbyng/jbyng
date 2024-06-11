@@ -1,6 +1,4 @@
-- 👋 Hi, I’m James Yang.
-- 👀 I’m interested in neural nets and machine learning algorithms.
-- 🌱 I’m currently learning app development via Android Studio for some personal projects!
+- Hi, I'm James Yang. Welcome to my profile!
 
 
 <!---
