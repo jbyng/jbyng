@@ -1,4 +1,4 @@
-- Hi, I'm James (Bryce) Yang.
+- Hi, I'm James (Bryce) Yang! I am a computer science / data science student at NC State University. Please feel free to check out my repositories!
 
 
 <!---
