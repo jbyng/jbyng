@@ -1,4 +1,4 @@
-- Hi, I'm James Yang. Welcome to my profile!
+- Hi, I'm James (Bryce) Yang.
 
 
 <!---
